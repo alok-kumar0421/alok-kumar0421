@@ -1,5 +1,5 @@
 <h1>Hi 👋, I'm  ALOK KUMAR</h1>
-<h2>A passionate software engineer</h2>
+<h2>A passionate software engineer 💻</h2>
 <h1>🚀 Languages and Tools 🛠 I Use</h1>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
