@@ -18,9 +18,10 @@
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
----
-## 🧠 About Me
 
+---
+
+## 🧠 About Me
 <p align="center">
 🎓 B.Tech CSE @ ABES Engineering College <br/>
 💻 Full Stack MERN Developer <br/>
