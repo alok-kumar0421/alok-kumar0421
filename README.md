@@ -22,19 +22,10 @@
 ## 🧠 About Me
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+@+ABES+Engineering+College" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Developer+(MERN)" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🧩+Strong+problem-solving+with+DSA+in+Java" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🚀+Focused+on+clean,+scalable+production-ready+systems" />
+🎓 B.Tech CSE @ ABES Engineering College <br/>
+💻 Full Stack MERN Developer <br/>
+🧠 Strong in Data Structures & Algorithms (Java) <br/>
+🚀 Focused on clean & scalable systems
 </p>
 
 ---
