@@ -1,14 +1,9 @@
-<!-- ===================== ANIMATED BANNER ===================== -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,100:22d3ee&height=200&section=header&text=Alok%20Kumar&fontSize=42&fontAlignY=35&animation=fadeIn&fontColor=ffffff" />
 </p>
-
-<!-- ===================== TYPING INTRO ===================== -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&center=true&vCenter=true&width=800&lines=Software+Engineer;MERN+Stack+Developer;DSA+in+Java;Open+Source+Enthusiast;Building+Scalable+Web+Apps" />
 </p>
-
-<!-- ===================== SOCIAL BADGES ===================== -->
 <p align="center">
   <a href="https://linkedin.com/in/alok-kumar-318583366">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -25,8 +20,6 @@
 </p>
 
 ---
-
-<!-- ===================== ABOUT ===================== -->
 ## 🧠 About Me
 ```txt
 🎓 B.Tech CSE @ ABES Engineering College  
