@@ -18,11 +18,33 @@
     <img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
-
 ---
 ## 🧠 About Me
-```txt
-🎓 B.Tech CSE @ ABES Engineering College  
-💻 Full Stack Developer (MERN)  
-🧩 Strong problem-solving with DSA in Java  
-🚀 Focused on clean, scalable & production-ready systems
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=900&lines=🎓+B.Tech+CSE+@+ABES+Engineering+College;💻+Full+Stack+Developer+(MERN);🧩+Strong+problem-solving+with+DSA+in+Java;🚀+Focused+on+clean,+scalable+and+production-ready+systems" />
+</p>
+
+---
+
+## 🛠 Tech Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-tech-stack.vercel.app/api?stack=c,cpp,java,js,ts,python,html,css,react,nextjs,nodejs,express,mongodb,mysql,git,github&theme=dark" />
+</p>
+---
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=3" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=alok-kumar0421&label=Profile+Views&color=6366f1&style=flat" />
+</p>
+<p align="center">
+  <b>Code. Learn. Build. Repeat. 🚀</b>
+</p>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22d3ee,100:6366f1&height=120&section=footer" />
+</p>
