@@ -20,8 +20,21 @@
 </p>
 ---
 ## 🧠 About Me
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&center=true&vCenter=true&width=900&lines=🎓+B.Tech+CSE+@+ABES+Engineering+College;💻+Full+Stack+Developer+(MERN);🧩+Strong+problem-solving+with+DSA+in+Java;🚀+Focused+on+clean,+scalable+and+production-ready+systems" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🎓+B.Tech+CSE+@+ABES+Engineering+College" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=💻+Full+Stack+Developer+(MERN)" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🧩+Strong+problem-solving+with+DSA+in+Java" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=18&center=true&vCenter=true&width=650&lines=🚀+Focused+on+clean,+scalable+production-ready+systems" />
 </p>
 
 ---
