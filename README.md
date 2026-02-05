@@ -19,7 +19,9 @@
   </a>
 </p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:22d3ee&height=2" />
+</p>
 
 ## 🧠 About Me
 <p align="center">
