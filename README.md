@@ -74,66 +74,58 @@ currently_exploring: "AI/ML, RAG, Agentic Workflows"
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=alok-kumar0421&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=8B5CF6&text_color=C9D1D9" height="165" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=alok-kumar0421&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" height="165" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-kumar0421&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" height="165" />
-<img src="https://github-profile-trophy.vercel.app/?username=alok-kumar0421&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=4" height="165" />
-
-</div>
-
-<br/>
-
-## 📈 Contribution Graph
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=alok-kumar0421&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22D3EE&line=8B5CF6&point=ffffff" />
-</div>
-
-<br/>
-
 ## 🚀 Featured Projects
 
 <table align="center" width="100%">
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 🏋️ AI Gym Coach
-Real-time form analyser using MediaPipe + OpenCV — tracks 33 joints, flags bad posture in under 100ms.
+Real-time form analyser — tracks 33 joints, flags bad posture in under 100ms.
 <br/>
-<sub>`MediaPipe` `OpenCV` `Groq API` `Streamlit`</sub>
+<sub>`MediaPipe` `OpenCV` `Groq API`</sub>
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
 
 ### 📄 RAG Document Q&A
-Retrieval pipeline answering queries across 50+ PDFs using ChromaDB + LangChain.
+Answers queries across 50+ PDFs using ChromaDB + LangChain.
 <br/>
-<sub>`LangChain` `ChromaDB` `NLP` `LLMs`</sub>
+<sub>`LangChain` `ChromaDB` `LLMs`</sub>
+
+</td>
+<td width="33%" valign="top">
+
+### 📧 AI Email Agent
+Agent that reads instructions, drafts and sends emails via LLM.
+<br/>
+<sub>`Python` `LLMs` `Agentic AI`</sub>
 
 </td>
 </tr>
 <tr>
-<td width="50%">
+<td width="33%" valign="top">
 
-### 🏨 StayGlory
-Full-stack MERN hotel booking platform with map search and secure auth.
+### 🐤 Flappy Bird DQN
+Deep RL agent trained 50,000+ episodes to master Flappy Bird.
 <br/>
-<sub>`MongoDB` `Express` `React` `Node.js`</sub>
+<sub>`Python` `Deep Learning` `RL`</sub>
 
 </td>
-<td width="50%">
+<td width="33%" valign="top">
+
+### 🏨 StayGlory
+Full-stack MERN hotel booking platform with map search & auth.
+<br/>
+<sub>`MongoDB` `Express` `React`</sub>
+
+</td>
+<td width="33%" valign="top">
 
 ### 🛍️ GlowGirl
-MERN e-commerce platform for women's products with an admin dashboard.
+MERN e-commerce platform for women's products + admin dashboard.
 <br/>
-<sub>`MongoDB` `Express` `React` `Node.js`</sub>
+<sub>`MongoDB` `Express` `React`</sub>
 
 </td>
 </tr>
