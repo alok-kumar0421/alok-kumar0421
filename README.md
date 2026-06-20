@@ -133,7 +133,7 @@ MERN e-commerce platform for women's products + admin dashboard.
 
 <div align="center">
 
-<a href="https://dainty-daifuku-fea31a.netlify.app/"><img src="https://img.shields.io/badge/View%20All%20Projects-on%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://aloktech.netlify.app/"><img src="https://img.shields.io/badge/View%20All%20Projects-on%20Portfolio-6366F1?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 
 </div>
 
