@@ -56,7 +56,7 @@ currently_exploring: "AI/ML, RAG, Agentic Workflows"
 
 **Frontend**
 <br/>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,redux&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,react,tailwind,redux&theme=dark" />
 
 <br/><br/>
 
